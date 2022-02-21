@@ -1,0 +1,1 @@
+SELECT * FROM schema1.t1 UNION SELECT * FROM schema2.t1;
